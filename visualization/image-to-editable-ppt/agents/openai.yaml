@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image to editable PPT"
+  short_description: "把科研图等比放进短图/长图框，原图+可编辑页写入图表集合"
+  default_prompt: "使用 image-to-editable-ppt。原图存到科研参考图，可编辑页按模板短图或长图边界等比缩放（元素长宽比不变），追加进科研图表集合.pptx，并另存该任务的 {slug}.pptx。不要把整页图当成可编辑对象。"

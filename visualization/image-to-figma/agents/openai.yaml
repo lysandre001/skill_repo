@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image to Figma"
+  short_description: "等比例把科研图还原并写入 Figma Slides"
+  default_prompt: "使用 image-to-figma。把图还原成 Figma 里可编辑的文字、矩形、线条，放在同一 Frame 里再统一 rescale。禁止只贴一张位图交差。skillNames 含 figma-use-slides。"

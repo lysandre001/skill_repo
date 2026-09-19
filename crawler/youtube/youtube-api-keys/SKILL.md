@@ -48,4 +48,4 @@ python main.py --check-keys
 | comments.list | 1 |
 | channels.list | 1 |
 
-See project [docs/infra.md](https://github.com/lysandre001/robot_failure) only for cross-project schema; crawler details in `youtube爬虫方案/docs/infra.md`.
+Quota and endpoints: `youtube爬虫方案/docs/infra.md`.
